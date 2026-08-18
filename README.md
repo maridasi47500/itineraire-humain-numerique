@@ -28,6 +28,8 @@ Ce projet te permet de :
    publies pas
    -
 
+   - se promener dans les magasins
+
    💬 Partager uniquement via le *numérique* : chat, posts, messages —
    jamais par contact direct
 
