@@ -18,7 +18,7 @@ Ce projet te permet de :
    🧠 Penser à quelqu’un ou quelque chose 
    -
 
-   📅 Préparer ta journée :décider si tu prendras une *photo ou un film*
+   📅 Préparer ta journée :décider si tu prendras une *photo ou un film*, enregistrera une musique ou écrira du code ou du texte
    -
 
    📸 Capturer des moments
@@ -41,10 +41,10 @@ Ce projet te permet de :
 
 
 
-   -
+   - passer par beaucoup d'endroits dans la ville
 
 
-   -
+   - trouver des endroits qui t'emmène dans toutes les directions 
 
 
 
