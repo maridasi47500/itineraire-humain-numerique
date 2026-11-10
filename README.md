@@ -1,4 +1,4 @@
-🌆 Itinéraire Humain & Numérique
+# 🌆 Itinéraire Humain & Numérique (long haul return)
 
 Un projet personnel et social pour explorer ta ville.
 
@@ -24,6 +24,7 @@ Ce projet te permet de :
    📸 Capturer des moments
    -
    - se promener dans les magasins
+   - errer dans des parcs ou jardins
 
 
 
